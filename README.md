@@ -1,0 +1,2 @@
+# sqlite-treeview-python
+This will display all the data in the SQLite database to Tkinter TreeView when the user clicks the display button. The code use tkinter module to create a layout and widgets that can call python functions. When a function is called it will immediately populate the Tkinter TreeView with SQLite database by using SQL SELECT query.
